@@ -242,7 +242,7 @@ This project is developed for the National Crime Records Bureau, Government of I
 
 ## 📞 Support
 
-For technical support or queries regarding the training portal, contact the NCRB Training Division.
+For technical support or queries regarding the training portal, contact the developer Nikhil Gupta and NCRB Training Division.
 
 ---
 
